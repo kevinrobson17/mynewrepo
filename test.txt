@@ -1,4 +1,0 @@
-LICENSE
-README.md
-TEST/
-test.txt
