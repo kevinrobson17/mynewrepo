@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Error"
+echo "Fixed that"
 
